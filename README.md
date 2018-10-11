@@ -1,7 +1,7 @@
 # java-fly
 综合java学习实践代码知识：
 
-1、JavaDesignPattern
+1、java-fly-learning
 设计模式在java中的应用示例代码
 
 建议阅读源码时配合文章介绍
